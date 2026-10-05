@@ -3,7 +3,7 @@
   <p><b>FROM IDEA TO LAUNCH!</b></p>
 </div>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a `Full Stack Developer`. **I will develop `your digital product`**!
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**I will develop `your digital product`**!
 
 
 ## COMPREHENSIVE BUSINESS DEVELOPMENT:
